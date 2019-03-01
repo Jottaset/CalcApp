@@ -1,0 +1,12 @@
+/Users/aluno/Projects/CalcApp/CalcApp/obj/Debug/netstandard2.0/CalcApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/CalcApp/CalcApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/CalcApp/CalcApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/CalcApp/CalcApp/obj/Debug/netstandard2.0/CalcApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/CalcApp/CalcApp/obj/Debug/netstandard2.0/CalcApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/CalcApp/CalcApp/obj/Debug/netstandard2.0/CalcApp.AssemblyInfo.cs
+/Users/aluno/Projects/CalcApp/CalcApp/obj/Debug/netstandard2.0/CalcApp.dll
+/Users/aluno/Projects/CalcApp/CalcApp/obj/Debug/netstandard2.0/CalcApp.pdb
+/Users/aluno/Projects/CalcApp/CalcApp/bin/Debug/netstandard2.0/CalcApp.deps.json
+/Users/aluno/Projects/CalcApp/CalcApp/bin/Debug/netstandard2.0/CalcApp.dll
+/Users/aluno/Projects/CalcApp/CalcApp/bin/Debug/netstandard2.0/CalcApp.pdb
+/Users/aluno/Projects/CalcApp/CalcApp/obj/Debug/netstandard2.0/XamlC.stamp

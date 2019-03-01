@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CalcApp"
+             x:Class="CalcApp.MainPage">
+    
+    <StackLayout Padding="5, 10">
+        
+        <!-- Place new controls here -->
+        
+        <Label Text="Tentando Somar Dois Numeros"
+               FontSize="15"
+               
+               
+               />
+        
+        <Editor 
+                Text="   "
+                MaxLength="10"
+                Keyboard="Numeric"
+               x:Name="Num_01"
+               />
+        
+        <Editor 
+                Text="   "
+                MaxLength="10"
+                Keyboard="Numeric"
+                x:Name="Num_02"
+               />
+        
+        <Button Text="Somar"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                Clicked="Somando"
+               
+               />
+        
+        <Label Text=" "
+               FontSize="15"
+               x:Name="label_1"
+               HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+               
+               />
+               
+    </StackLayout>
+</ContentPage>
