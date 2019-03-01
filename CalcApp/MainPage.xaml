@@ -14,32 +14,30 @@
                
                />
         
-        <Editor 
-                Text="   "
+        <Entry  Placeholder="Teste o Input"
                 MaxLength="10"
                 Keyboard="Numeric"
-               x:Name="Num_01"
-               />
+                x:Name="Num_01"
+                />
         
-        <Editor 
-                Text="   "
+        <Entry  Placeholder="Testando o Input"
                 MaxLength="10"
                 Keyboard="Numeric"
                 x:Name="Num_02"
-               />
+                />
         
         <Button Text="Somar"
                 HorizontalOptions="Center"
                 VerticalOptions="CenterAndExpand"
                 Clicked="Somando"
                
-               />
+                />
         
         <Label Text=" "
-               FontSize="15"
+               FontSize="25"
                x:Name="label_1"
                HorizontalOptions="Center"
-                VerticalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand"
                
                />
                
